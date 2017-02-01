@@ -1,0 +1,9 @@
+
+1) What happens when you initialize a repository? Why do you need to do it?
+
+When a repository is initialized with the 'git init' command, the repository is
+placed under version control (using Git). It is a required as it lets Git know
+that we want to track files in that repository.
+
+2) How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area only contains those files from the working directory and the repository that have been added using the 'git add' command. The staging area keeps track of changes in these files since the last commit. On using the commit option, these changes are applied to the repository.
