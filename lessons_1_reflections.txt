@@ -11,9 +11,9 @@ the amount of time to find certain changes and save me from a lot hassle.
 efficient programmer in the long term?
 
 It gives me the ability to roll-back to a previous version of the file. It also
-allows me to compare different versions to see what changes  have occurred during
-a timespan. Being assured of the possibility of being able to revert back to a
-former state allows me to work on my project  without worrying about making
+allows me to compare different versions to see what changes  have occurred
+during a timespan. Being assured of the possibility of being able to revert back
+to a former state allows me to work on my project  without worrying about making
 errors.
 
 3)What do you think are the pros and cons of manually choosing when to  create a
@@ -26,9 +26,8 @@ therefore, a meaningful change.
 Cons: Makes the programmer/user responsible for choosing when to save changes.
 Thus, a programmer might forget to save changes at times.
 
-4)Why do you think some version control systems, like Git, allow saving
-multiple files in one commit, while others, like Google Docs, treat each file
-separately?
+4)Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
 
 Version control systems, like Git, are typically used by programmers who are
 often working on projects involving multiple and often interrelated  files.
