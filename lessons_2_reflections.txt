@@ -29,3 +29,9 @@ repository e.g. when adding a new experimental feature. This way we can work on
 the master branch and other branches simultaneously. Additionally, we can merge
 these branches back into master (or with one another) providing greater
 flexibility.
+
+5) How do the diagrams help you visualize the branch structure?
+
+The diagrams created with the 'git --graph' command show where the branches fork
+and merge hence giving a clear picture of the branch structure. They also make
+it easy to see which commits are reachable and from which branches.
