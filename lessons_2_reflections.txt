@@ -35,3 +35,12 @@ flexibility.
 The diagrams created with the 'git --graph' command show where the branches fork
 and merge hence giving a clear picture of the branch structure. They also make
 it easy to see which commits are reachable and from which branches.
+
+6) What is the result of merging two branches together? Why do we represent it
+in the diagram the way we do?
+
+The (non-conflicting) changes introduced in two branches relative to their
+common parent are merged into a single new commit.  We show the new commit as
+being the child of two parents(the commits that were merged together) by making
+use of arrows to illustrate the relationship between them and also, make it
+clear that the two branches have been merged.
