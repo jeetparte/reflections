@@ -44,3 +44,11 @@ common parent are merged into a single new commit.  We show the new commit as
 being the child of two parents(the commits that were merged together) by making
 use of arrows to illustrate the relationship between them and also, make it
 clear that the two branches have been merged.
+
+7) What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+Automatic merging takes care of non-conflicting changes easily when compared to
+doing it manually(a tedious task). However, conflicts during a merge are better
+resolved manually. Git's merging strategy incorporates the best of both
+practices. 
