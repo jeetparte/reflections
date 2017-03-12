@@ -11,3 +11,22 @@ Changes can cause conflicts. If you're working on a new feature, manually
 pulling allows the flexibility to choose when you want to keep up to date with
 the latest version versus focus on completing the feature without having to
 worry about solving new conflicts.
+
+3) Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+
+Forks are a feature on GitHub which allow users to create a clone of a public
+GitHub repository and add it to their own profile. Forked repository's reference
+the original repository which was forked giving due credit to the original
+author. Users can request that their changes be incorporated into the original
+repository. This is done using what is called a merge request.
+
+Clone is a git command that can be used to create a duplicate of any
+repository(remote or local) and store it on a local machine.
+
+Branches are used to create non-linear changes to the repository (i.e. have
+multiple versions of the same repository that branch off from a single commit).
+
+Fork - when trying to modify someone else's existing public repository.
+Clone - when creating a local copy of a repository.
+Branch - when working on an experimental feature, fixing bugs etc.
