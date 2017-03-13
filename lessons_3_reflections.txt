@@ -50,3 +50,13 @@ As for GitHub, there are other alternatives like BitBucket. The benefit of
 GitHub being that there are many open source projects hosted on it which makes
 forking them to your profile convenient. BitBucket wins when it comes to private
 repositories -- you can create an unlimited number of these for free.
+
+6) When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+
+Using a separate branch ensures that master is always in a working state. Also,
+when we decide that our changes are ready to be merged into master, we can
+create a pull request so other people can review them.
+
+For small changes, making them directly on master is a lot more quicker and
+convenient, this however, comes with a risk.
