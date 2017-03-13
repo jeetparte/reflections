@@ -36,3 +36,17 @@ stored locally?
 
 It allows us to work offline. Also, since processing overhead is lower, it makes
 pulling/pushing and checking on new changes to the remote faster.
+
+5) How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+Without Git, I would have to resort to other forms of version control like
+Subversion, Mercurial, CVS. However, some of them are obsolete and in any case,
+I'd have to put the effort into learning to use them. This can be avoided with
+other options such as manually saving files, using cloud services with version
+control capabilities, however, these are not optimized for use by programmers.
+
+As for GitHub, there are other alternatives like BitBucket. The benefit of
+GitHub being that there are many open source projects hosted on it which makes
+forking them to your profile convenient. BitBucket wins when it comes to private
+repositories -- you can create an unlimited number of these for free.
