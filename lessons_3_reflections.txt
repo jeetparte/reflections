@@ -30,3 +30,9 @@ multiple versions of the same repository that branch off from a single commit).
 Fork - when trying to modify someone else's existing public repository.
 Clone - when creating a local copy of a repository.
 Branch - when working on an experimental feature, fixing bugs etc.
+
+4) What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+It allows us to work offline. Also, since processing overhead is lower, it makes
+pulling/pushing and checking on new changes to the remote faster.
