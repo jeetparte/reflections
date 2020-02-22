@@ -1,5 +1,7 @@
 # reflections
-**Reflections on Git and GitHub** - an integral part of Udacity's [*How to Use Git and GitHub* course][1]
+**Reflections on Git and GitHub** - an integral part of Udacity's [*How to Use Git and GitHub*][1] course
+
+### About
 
 I took the online course as a primer to understanding version control and Git - both of which were new to me at the time.   
 
