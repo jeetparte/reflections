@@ -3,7 +3,7 @@
 
 ### About
 
-I took the online course as a primer to understanding version control and Git - both of which were new to me at the time.   
+I took the online course in 2017 as a primer to understanding version control and Git - both of which were new to me at the time.   
 
 For a better understanding of the concepts, the course authors encouraged [reflection-based learning][2] and so, 
 as an adjunct to learning the main concepts, included this activity of reflecting on what was learnt, by answering a set 
