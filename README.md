@@ -17,7 +17,7 @@ of related questions.
 
 ### Next steps
 
-At work, our team uses [Surround SCM][3] (although there are plans to migrate to git). But I do use git for personal projects like my upcoming blog.<!--todo - add link--> The [Pro Git][4] book is on my reading list for when I start using git more heavily.
+At work, our team uses [Surround SCM][3] (although there are plans to migrate to git). But I do use git for personal projects. The [Pro Git][4] book is on my reading list for when I start using git more heavily.
 
 [1]: https://www.udacity.com/course/how-to-use-git-and-github--ud775
 [2]: https://en.wikipedia.org/wiki/Reflective_practice
