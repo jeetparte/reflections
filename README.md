@@ -1,5 +1,5 @@
 # reflections
-**Reflections on Git and GitHub** - an integral part of Udacity's [*How to Use Git and GitHub*][1] course
+**Reflections on Git and GitHub** - an integral part of Udacity's [*How to Use Git and GitHub*][1] course.
 
 ### About
 
